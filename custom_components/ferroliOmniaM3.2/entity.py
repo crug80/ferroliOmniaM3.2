@@ -1,4 +1,4 @@
-"""BlueprintEntity class."""
+"""ferroliOmnia3.2 class."""
 
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ from .coordinator import BlueprintDataUpdateCoordinator
 
 
 class IntegrationBlueprintEntity(CoordinatorEntity[BlueprintDataUpdateCoordinator]):
-    """BlueprintEntity class."""
+    """ferroliOmnia3.2 class."""
 
     _attr_attribution = ATTRIBUTION
 

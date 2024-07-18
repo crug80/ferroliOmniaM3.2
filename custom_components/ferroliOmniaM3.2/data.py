@@ -1,4 +1,4 @@
-"""Custom types for integration_blueprint."""
+"""Custom types for ferroliOmnia3.2."""
 
 from __future__ import annotations
 

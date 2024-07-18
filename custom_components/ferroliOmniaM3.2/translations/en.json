@@ -1,0 +1,17 @@
+{
+    "config": {
+        "step": {
+            "hub": {
+                "description": "Type the modbus name. If you need help with the configuration have a look here: https://github.com/crug80/ferroliOmniaM3.2/wiki",
+                "data": {
+                    "modbusHub": "defaultHub"
+                }
+            }
+        },
+        "error": {
+            "auth": "Modbus hub doesn't exist",
+            "connection": "Unable to connect to the server.",
+            "unknown": "Unknown error occurred."
+        }
+    }
+}
